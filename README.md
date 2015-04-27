@@ -5,9 +5,9 @@ data bandwidth.
 
 ## Usage
 
-Download `tsv.gz` log files from PaperTrailApp to the directory
-containing this script. Run `compute.sh` and it will output the
-number of bytes.
+Download `tsv.gz` log files from [PaperTrailApp archive](https://papertrailapp.com/account/archives)
+to the directory containing this script. Run `compute.sh` and it
+will output the number of bytes.
 
 ## License
 
